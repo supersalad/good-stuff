@@ -10,6 +10,9 @@
 * https://gotopia.tech/
 * https://oredev.org/
 
+## Speaking
+* https://github.com/fsciuti/awesome-speaker
+
 ## Pod casts
 * https://developerspodcast.com/
 * https://kodsnack.se/
